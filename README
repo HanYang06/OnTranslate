@@ -1,0 +1,6 @@
+OnTranslate
+
+A fast translation framework built in the code language Rust
+
+The framework combines text processing parsing with AI models
+Intended to better provide high-speed machine translation and document throughput IO
